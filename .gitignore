@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
+.gitattributes
+.babelrc
+.bowerrc
+.editorconfig
+.yo-rc.json
+.DS_Store
